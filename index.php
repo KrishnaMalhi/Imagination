@@ -238,20 +238,20 @@
                         </div><!-- /.service-item -->
                     </div><!-- /.col-lg-3 -->
                     <!-- service item #4 -->
-                    <div class="col-sm-12 col-md-6 col-lg-3">
+                    <!-- <div class="col-sm-12 col-md-6 col-lg-3">
                         <div class="service-item">
                             <div class="service-item__content">
                                 <div class="service-item__icon">
                                     <i class="icon-technician"></i>
                                 </div><!-- /.service-item__icon -->
-                                <h4 class="service-item__title">Network & Hosting <br> Services</h4>
+                                <!-- <h4 class="service-item__title">Network & Hosting <br> Services</h4>
 
                             </div><!-- /.service-content -->
-                            <div class="service-item__overlay bg-overlay bg-overlay-primary">
+                            <!-- <div class="service-item__overlay bg-overlay bg-overlay-primary">
                                 <!-- <div class="bg-img"><img src="assets/images/services/4.jpg" alt="background"></div> -->
-                            </div><!-- /.service-item__overlay -->
-                        </div><!-- /.service-item -->
-                    </div><!-- /.col-lg-3 -->
+                            <!-- </div><!-- /.service-item__overlay -->
+                        <!-- </div><!-- /.service-item
+                    </div>/.col-lg-3  -->
                     <!-- service item #5 -->
                     <div class="col-sm-12 col-md-12 col-lg-12 text-center">
                         <a href="services.php" class="btn btn__primary btn__primary-style2 minwidth-120">view more <svg
@@ -272,9 +272,9 @@
         <!-- ======================
     Features Layout 1
     ========================= -->
-        <section id="features" class="features-layout1 pt-130 pb-220" style="background-color: black">
+        <!-- <section id="features" class="features-layout1 pt-130 pb-220" style="background-color: black"> -->
             <!-- <div class="bg-img"><img src="assets/images/backgrounds/10.jpg" alt="background"></div> -->
-            <div class="container">
+            <!-- <div class="container">
                 <div class="row">
                     <div class="col-sm-12 col-md-12 col-lg-12 col-xl-6">
                         <div class="heading heading-layout2 mb-40">
@@ -286,12 +286,12 @@
                         <a href="contact-us.php" class="btn btn__white btn__bordered btn__xl btn__icon minwidth-170">
                             <span>Get Started</span>
                             <i class="icon-arrow-right"></i>
-                        </a>
-                    </div><!-- /.col-xl-6 -->
-                    <div class="col-sm-12 col-md-12 col-lg-12 col-xl-6">
-                        <div class="row features-wrapper mt-40">
+                        </a> -->
+                    <!-- </div><!-- /.col-xl-6 -->
+                    <!-- <div class="col-sm-12 col-md-12 col-lg-12 col-xl-6"> -->
+                        <!-- <div class="row features-wrapper mt-40"> --> -->
                             <!-- Feature item #1 -->
-                            <div class="col-sm-6 feature-item">
+                            <!-- <div class="col-sm-6 feature-item">
                                 <div class="feature-item__icon">
                                     <i class="icon-statistic"></i>
                                 </div>
@@ -299,58 +299,58 @@
                                     <h4 class="feature-item__title mb-0">ERP Solutions</h4>
 
                                 </div>
-                            </div><!-- /.feature-item -->
+                            </div>/.feature-item -->
                             <!-- Feature item #2 -->
-                            <div class="col-sm-6 feature-item">
-                                <div class="feature-item__icon">
+                            <!-- <div class="col-sm-6 feature-item"> -->
+                                <!-- <div class="feature-item__icon">
                                     <i class="icon-management"></i>
                                 </div>
                                 <div class="d-flex align-items-center justify-content-between">
-                                    <h4 class="feature-item__title mb-0">Industrial and Home Automation</h4>
-                                </div>
-                            </div><!-- /.feature-item -->
+                                    <h4 class="feature-item__title mb-0">Industrial and Home Automation</h4> -->
+                                <!-- </div> -->
+                            <!-- </div>/.feature-item -->
                             <!-- Feature item #3 -->
-                            <div class="col-sm-6 feature-item">
-                                <div class="feature-item__icon">
+                            <!-- <div class="col-sm-6 feature-item"> -->
+                                <!-- <div class="feature-item__icon">
                                     <i class="icon-software"></i>
                                 </div>
                                 <div class="d-flex align-items-center justify-content-between">
                                     <h4 class="feature-item__title mb-0">Digital Marketing Solutions</h4>
-                                </div>
-                            </div><!-- /.feature-item -->
+                                </div> -->
+                            <!-- </div>/.feature-item -->
                             <!-- Feature item #4 -->
-                            <div class="col-sm-6 feature-item">
-                                <div class="feature-item__icon">
+                            <!-- <div class="col-sm-6 feature-item"> -->
+                                <!-- <div class="feature-item__icon">
                                     <i class="icon-controls"></i>
                                 </div>
                                 <div class="d-flex align-items-center justify-content-between">
                                     <h4 class="feature-item__title mb-0">IP-PBX, CCTV, Wireless Solutions</h4>
-                                </div>
-                            </div><!-- /.feature-item -->
-                        </div><!-- /.row -->
-                        <div class="row mt-50 contact-text">
+                                </div> -->
+                            <!-- </div>/.feature-item -->
+                        <!-- </div>/.row -->
+                        <!-- <div class="row mt-50 contact-text">
                             <div class="col-sm-9 px-0">
                                 <strong class="color-white">If you have any questions or need help, feel free to contact
                                     with our team,
                                     or call
-                                    <a href="tel:+922138884247">+92 21 38884247</a></strong>
-                            </div><!-- /.col-sm-9 -->
-                            <div class="col-sm-3 px-0 d-flex justify-content-end">
+                                    <a href="tel:+922138884247">+92 21 38884247</a></strong> -->
+                            <!-- </div><!-- /.col-sm-9 -->
+                            <!-- <div class="col-sm-3 px-0 d-flex justify-content-end">
                                 <a href="contact-us.html"
-                                    class="btn btn__primary btn__primary-style2 minwidth-120">Contact Us</a>
-                            </div><!-- /.col-sm-3 -->
-                        </div><!-- /.row -->
-                    </div><!-- /.col-lg-6 -->
-                </div><!-- /.row -->
-            </div><!-- /.container -->
-        </section><!-- /.Features Layout 1 -->
+                                    class="btn btn__primary btn__primary-style2 minwidth-120">Contact Us</a> -->
+                            <!-- </div>/.col-sm-3 --> 
+                        <!-- </div>/.row -->
+                    <!-- </div>/.col-lg-6 -->
+                <!-- </div>/.row -->
+            <!-- </div>/.container -->
+        <!-- </section>/.Features Layout 1 -->
 
         <div class="bg-no-repeat bg-top">
             <div class="bg-img"><img src="assets/images/backgrounds/6.jpg" alt="backgrounds"></div>
             <!-- =========================
         Contact layout 2
       =========================== -->
-            <section id="contact" class="contact-layout2 pt-0">
+            <!-- <section id="contact" class="contact-layout2 pt-0">
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-12 col-md-12 col-lg-12">
@@ -375,47 +375,47 @@
                                             <li>24/7 Support to keep your business live.</li>
                                         </ul>
                                     </div><!-- /.heading -->
-                                    <div class="d-flex flex-wrap">
+                                    <!-- <div class="d-flex flex-wrap"> -->
 
                                         <!-- <a href="contact-us.php" class="btn btn__white btn__bordered btn__icon">
                                             <span>Get Started</span><i class="icon-arrow-right"></i>
                                         </a> -->
-                                    </div>
-                                </div><!-- /.contact-panel__banner -->
-                                <form class="contact-panel__form" method="POST" action="form.php"
+                                    <!-- </div> -->
+                                <!-- </div>/.contact-panel__banner -->
+                                <!-- <form class="contact-panel__form" method="POST" action="form.php"
                                 id="myForm">
                                     <div class="row">
                                         <div class="col-sm-6 col-md-6 col-lg-6">
                                         <label >Name (required)</label>
                                         <input type="text" class="form-control" placeholder="Name" id="name"
-                                            name="name" required>
-                                        </div><!-- /.col-lg-6 -->
-                                        <div class="col-sm-6 col-md-6 col-lg-6">
+                                            name="name" required> -->
+                                        <!-- </div>/.col-lg-6 -->
+                                       <!-- /* <div class="col-sm-6 col-md-6 col-lg-6">
                                             <div class="form-group">
                                                 <label >Email (required)</label>
                                                 <input type="email" class="form-control" placeholder="Email"
                                                     id="email" name="email" required>
-                                            </div>
-                                        </div><!-- /.col-lg-6 -->
-                                        <div class="col-sm-6 col-md-6 col-lg-6">
+                                            </div> -->
+                                      <!-- /  </div>/.col-lg-6 -->
+                                        <!-- <div class="col-sm-6 col-md-6 col-lg-6">
                                             <div class="form-group">
                                                 <label >Phone (required)</label>
 
                                                 <input type="text" class="form-control" placeholder="Phone"
-                                                    id="phone" name="phone" required>
+                                                    id="phone" name="phone" required> -->
 
-                                            </div>
+                                            <!-- </div>
                                         </div><!-- /.col-lg-6 -->
-                                        <div class="col-sm-6 col-md-6 col-lg-6">
+                                        <!-- <div class="col-sm-6 col-md-6 col-lg-6">
                                             <div class="form-group">
                                                 <label >City </label>
                                                 <input type="text" class="form-control" placeholder="City"
                                                     id="city" name="city">
-                                            </div>
-                                        </div><!-- /.col-lg-6 -->
-                                        <div class="col-sm-12 col-md-12 col-lg-12">
-                                            <div class="form-group">
-                                                <label >Message (optional)</label>
+                                            </div> -->
+                                        <!-- </div>/.col-lg-6 -->
+                                        <!-- <div class="col-sm-12 col-md-12 col-lg-12">
+                                            <div class="form-group"> -->
+                                                <!-- <label >Message (optional)</label>
                                                 <textarea class="form-control" placeholder="Describe your inquirey!"
                                                     id="message" name="message"></textarea>
                                             </div>
@@ -423,24 +423,75 @@
                                             <button type="submit" class="btn btn__secondary btn__block">Submit
                                                 Request </button>
                                         </div><!-- /.col-lg-12 -->
-                                    </div><!-- /.row -->
-                                </form><!-- /.contact-panel__form -->
-                            </div><!-- /.contact-panel -->
-                        </div><!-- /.col-lg-12 -->
-                    </div><!-- /.row -->
-                </div><!-- /.container -->
-            </section><!-- /.Contact layout 2 -->
+                                    <!-- </div>/.row -->
+                                <!-- </form>/.contact-panel__form -->
+                            <!-- </div>/.contact-panel --> 
+                        <!-- </div>/.col-lg-12 -->
+                    <!-- </div>/.row -->
+                <!-- </div>/.container -->
+            <!-- </section>/.Contact layout 2 -->
 
             <!-- ========================= 
       Testimonials layout 1
       =========================  -->
+<section>
+<div id="contact" class="contact-us section">
+<div class="bg-img"><img src="assets/images/backgrounds/contact-bg.png" alt="background"></div>
+            <div class="container">
+      <div class="row">
+        <div class="col-lg-6 align-self-center wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay="0.25s">
+          <div class="section-heading">
+            <h2>Feel Free To Send Us a Message About Your Website Needs</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doer ket eismod tempor incididunt ut labore et dolores</p>
+            <div class="phone-info">
+              <h4>For any enquiry, Call Us: <span><i class="fa fa-phone"></i> <a href="#">010-020-0340</a></span></h4>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6 wow fadeInRight" data-wow-duration="0.5s" data-wow-delay="0.25s">
+          <form id="contact" action="" method="post">
+            <div class="row">
+              <div class="col-lg-6">
+                <fieldset>
+                  <input type="name" name="name" id="name" placeholder="Name" autocomplete="on" required>
+                </fieldset>
+              </div>
+              <div class="col-lg-6">
+                <fieldset>
+                  <input type="surname" name="surname" id="surname" placeholder="Surname" autocomplete="on" required>
+                </fieldset>
+              </div>
+              <div class="col-lg-12">
+                <fieldset>
+                  <input type="text" name="email" id="email" pattern="[^ @]*@[^ @]*" placeholder="Your Email" required="">
+                </fieldset>
+              </div>
+              <div class="col-lg-12">
+                <fieldset>
+                  <textarea name="message" type="text" class="form-control" id="message" placeholder="Message" required=""></textarea>  
+                </fieldset>
+              </div>
+              <div class="col-lg-12">
+                <fieldset>
+                  <button type="submit" id="form-submit" class="main-button ">Send Message</button>
+                </fieldset>
+              </div>
+            </div>
+            <div class="contact-dec">
+          
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
 
+</section>
 
         </div>
 
 
         <section class="banner-layout2 pt-0 pb-100">
-            <div class="bg-img"><img src="assets/images/backgrounds/8.jpg" alt="background"></div>
+            <div class="bg-img"><img src="assets/images/backgrounds/contact-bg.png" alt="background"></div>
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 col-md-12 col-lg-12 col-xl-5">
@@ -477,10 +528,9 @@
 
                         </div>
                     </div><!-- /.col-xl-6 -->
-                    <div class="col-sm-12 col-md-12 col-lg-12 col-xl-7">
+                    <div class="col-sm-12 col-md-12 col-lg-12 col-xl-5"  style="margin-top: 450px; margin-left: 150px;" >
                         <div class="banner-img">
-                            <img src="assets/images/banners/94.jpg" alt="banner" height="10%" width="100%">
-
+                        <img src="assets/images/backgrounds/blog-dec.png" alt="banner" height="150%" width="100%">
                         </div>
                     </div><!-- /.col-xl-6 -->
                 </div><!-- /.row -->

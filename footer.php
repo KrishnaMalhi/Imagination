@@ -1,5 +1,5 @@
 <footer class="footer bg-heading">
-    <div class="bg-img"></div>
+    <div ></div>
 
     <div class="footer-primary">
         <div class="container">

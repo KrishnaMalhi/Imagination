@@ -288,8 +288,8 @@
         </section><!-- /.Awards -->
         
 
-        <section class="banner-layout2 pt-0 pb-100">
-            <div class="bg-img"><img src="assets/images/backgrounds/8.jpg" alt="background"></div>
+        <section class="banner-layout2 pt-0 pb-100" style="margin-bottom:1  0px">
+            <div class="bg-img" ><img src="assets/images/backgrounds/contact-bg.png" alt="background"></div>
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 col-md-12 col-lg-12 col-xl-5">
