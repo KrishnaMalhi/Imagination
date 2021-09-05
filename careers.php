@@ -1,232 +1,66 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-  <meta name="description" content="Mintech  IT Solutions &  Services Template">
-  <meta name="description"
-        content="Software development, Mobile app, Website, Web development, Graphic design, Internet services and equipment, Digital Marketing, SEO, CCTV and much more.">
-    <meta name="keywords"
-        content="software developer, software company, software design, software development company, web design software, mobile development, software companies near me, website design, IT company, it consulting companies">
-    <meta name="author" content="Inventic Solutions" />
-
-    <title>Best Website Designing | Software | Solutions | Marketing</title>
-
-    <link rel="shortcut icon" href="assets/images/logo/logo-shortcut.png" type="image/x-icon">
-
-  <link rel="stylesheet"
-    href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;700;800;900&family=Roboto:wght@400;700&display=swap">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.1/css/all.css">
-  <link rel="stylesheet" href="assets/css/libraries.css">
-  <link rel="stylesheet" href="assets/css/style.css">
-</head>
+<?php require "header.php"?>
 
 <body>
-  <div class="wrapper">
-    <div class="preloader">
-      <div class="loading">
-        <span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>
-      </div>
-    </div><!-- /.preloader -->
 
-    <!-- =========================
-        Header 
-    =========================== -->
-    <header class="header header-transparent">
-     <?php require "navbar.php"?>
-    </header><!-- /.Header -->
-    <!-- ========================
-       page title 
-    =========================== -->
-    <section class="page-title page-title-layout7 text-center bg-overlay bg-parallax">
-      <div class="bg-img"><img src="assets/images/page-titles/cccc.webp" alt="background"></div>
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-12 col-md-12 col-lg-12">
-            <h1 class="pagetitle__heading">Careers</h1>
-            <nav>
-              <ol class="breadcrumb justify-content-center mb-0">
-                <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                <li class="breadcrumb-item"><a href="about-us.php">Company</a></li>
-                <li class="breadcrumb-item active" aria-current="page">Careers</li>
-              </ol>
-            </nav>
-          </div><!-- /.col-xl-6 -->
-        </div><!-- /.row -->
-      </div><!-- /.container -->
-    </section><!-- /.page-title -->
-
-    <!-- ========================
-      Secondary Nav
-    =========================== -->
-    <section class="secondary-nav sticky-top py-0">
-      <div class="container">
-        <div class="row">
-          <div class="col-12">
-           
-          </div><!-- /.col-12 -->
-        </div><!-- /.row -->
-      </div><!-- /.container -->
-    </section><!-- /.Secondary Nav -->
-
-    <!-- ========================= 
-         careers
-    =========================  -->
-    <section class="careers">
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-12 col-md-12 col-lg-6 offset-lg-3">
-            <div class="heading text-center mb-50">
-              <h2 class="heading__subtitle color-body">We Prepare For The Future.</h2>
-              <h3 class="heading__title">Inspire And Get Inspired By Professional Experts</h3>
-            </div><!-- /.heading -->
-          </div><!-- /.col-lg-10 -->
-        </div><!-- /.row -->
-        <div class="row">
-          <div class="col-sm-12 col-md-12 col-lg-12">
-            <!-- career item #1 -->
-            <div class="job-item">
-              <div class="row">
-                <div class="col-sm-12 col-md-12 col-lg-4">
-                  <div class="job-item__meta">
-                    <span class="job-item__type">Full Time</span>
-                    <span class="job-item__location">Karachi </span>
-                  </div>
-                  <h4 class="job-item__title">Chief Executive Officer</h4>
-                </div><!-- /.col-lg-4 -->
-                <div class="col-sm-12 col-md-12 col-lg-5">
-                  <p class="job-item__desc">A chief executive officer (CEO) is the highest-ranking executive in a
-                    company, and their primary responsibilities include making major corporate decisions.</p>
-                </div><!-- /.col-lg-5 -->
-                <div class="col-sm-12 col-md-12 col-lg-3 d-flex align-items-center justify-content-end btn-wrap">
-                  <a href="#" class="btn btn__secondary">Apply Now</a>
-                </div><!-- /.col-lg-3 -->
-              </div><!-- /.row -->
-            </div><!-- /.job-item -->
-            <!-- career item #2 -->
-            <div class="job-item">
-              <div class="row">
-                <div class="col-sm-12 col-md-12 col-lg-4">
-                  <div class="job-item__meta">
-                    <span class="job-item__type">Full Time</span>
-                    <span class="job-item__location">Karachi</span>
-                  </div>
-                  <h4 class="job-item__title">WORDPRESS INTERN</h4>
-                </div><!-- /.col-lg-4 -->
-                <div class="col-sm-12 col-md-12 col-lg-5">
-                  <p class="job-item__desc">A chief executive officer (CEO) is the highest-ranking executive in a
-                    company, and their primary responsibilities include making major corporate decisions.</p>
-                </div><!-- /.col-lg-5 -->
-                <div class="col-sm-12 col-md-12 col-lg-3 d-flex align-items-center justify-content-end btn-wrap">
-                  <a href="#" class="btn btn__secondary">Apply Now</a>
-                </div><!-- /.col-lg-3 -->
-              </div><!-- /.row -->
-            </div><!-- /.job-item -->
-            <!-- career item #3 -->
-            <div class="job-item">
-              <div class="row">
-                <div class="col-sm-12 col-md-12 col-lg-4">
-                  <div class="job-item__meta">
-                    <span class="job-item__type">Full Time</span>
-                    <span class="job-item__location">Karachi</span>
-                  </div>
-                  <h4 class="job-item__title">Global Sales & Marketing</h4>
-                </div><!-- /.col-lg-4 -->
-                <div class="col-sm-12 col-md-12 col-lg-5">
-                  <p class="job-item__desc">A chief executive officer (CEO) is the highest-ranking executive in a
-                    company, and their primary responsibilities include making major corporate decisions.</p>
-                </div><!-- /.col-lg-5 -->
-                <div class="col-sm-12 col-md-12 col-lg-3 d-flex align-items-center justify-content-end btn-wrap">
-                  <a href="#" class="btn btn__secondary">Apply Now</a>
-                </div><!-- /.col-lg-3 -->
-              </div><!-- /.row -->
-            </div><!-- /.job-item -->
-          </div><!-- /.col-lg-12 -->
-        </div><!-- /.row -->
-      </div><!-- /.container -->
-    </section><!-- /.careers -->
-
-
-    <!-- ======================
-        Blog Grid
-      ========================= -->
-    
-
-    <!-- ========================
-      Footer
-    ========================== -->
-   <?php require "footer.php" ?>
-    <button id="scrollTopBtn"><i class="fas fa-long-arrow-alt-up"></i></button>
-
-
-    <div class="login-popup" id="login-popup">
-      <div class="login-popup-wrapper">
-        <form class="login-popup__form">
-          <h3 class="login-popup__title">Login!</h3>
-          <p class="login-popup__desc">Connect, organize and get things done to keep your IT business safe.</p>
-          <div class="form-group mb-30">
-            <label>Email (required)</label>
-            <input type="text" class="form-control" placeholder="username">
-          </div>
-          <div class="form-group mb-20">
-            <label>Password (required)</label>
-            <input type="password" class="form-control" placeholder="password">
-          </div>
-          <div class="d-flex align-items-center justify-content-between mb-20">
-            <div class="custom-control custom-checkbox d-flex align-items-center">
-              <input type="checkbox" class="custom-control-input" id="customCheck1">
-              <label class="custom-control-label" for="customCheck1">Remember Me!</label>
+    <!-- ***** Preloader Start ***** -->
+    <div id="js-preloader" class="js-preloader">
+        <div class="preloader-inner">
+            <span class="dot"></span>
+            <div class="dots">
+                <span></span>
+                <span></span>
+                <span></span>
             </div>
-            <a href="#" class="fz-14 font-weight-bold color-secondary">Forget Password?</a>
-          </div>
-          <button type="submit" class="btn btn__secondary btn__block">Login</button>
-        </form>
-        <div class="d-flex justify-content-center align-items-center mt-20">
-          <span class="color-white fz-14 font-weight-bold">Don’t Have An Account?</span>
-          <button id="go-register" class="go-register fz-14 font-weight-bold">
-            <span>Register Here</span><i class="icon-arrow-right"></i>
-          </button>
         </div>
-      </div>
-    </div><!-- /.login-popup -->
+    </div>
+    <!-- ***** Preloader End ***** -->
 
-    <div class="login-popup" id="register-popup">
-      <div class="login-popup-wrapper">
-        <form class="login-popup__form">
-          <h3 class="login-popup__title">Register!</h3>
-          <p class="login-popup__desc">Connect, organize and get things done to keep your IT business safe.</p>
-          <div class="form-group mb-30">
-            <label>Email (required)</label>
-            <input type="text" class="form-control" placeholder="username">
-          </div>
-          <div class="form-group mb-20">
-            <label>Password (required)</label>
-            <input type="password" class="form-control" placeholder="password">
-          </div>
-          <div class="d-flex align-items-center justify-content-between mb-20">
-            <div class="custom-control custom-checkbox d-flex align-items-center">
-              <input type="checkbox" class="custom-control-input" id="customCheck2">
-              <label class="custom-control-label" for="customCheck2">I read & agree to <a href="#">Terms &
-                  Conditions</a></label>
+    <!-- ***** Header Area Start ***** -->
+    <header class="header-area header-sticky wow slideInDown" data-wow-duration="0.75s" data-wow-delay="0s">
+        <?php require "navbar.php"?>
+    </header>
+    <!-- ***** Header Area End ***** -->
+
+    <div class="main-banner wow fadeIn" id="top" data-wow-duration="1s" data-wow-delay="0.5s">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="row">
+                        <div class="col-lg-6 align-self-center">
+                            <div class="left-content header-text wow fadeInLeft" data-wow-duration="1s"
+                                data-wow-delay="1s">
+                                <h6>Welcome to Space Dynamic</h6>
+                                <h2>We Make <em>Digital Ideas</em> &amp; <span>SEO</span> Marketing</h2>
+                                <p>Space Dynamic is a professional looking HTML template using a Bootstrap 5 (beta 2).
+                                    This CSS template is free for you provided by <a rel="nofollow"
+                                        href="https://templatemo.com/page/1" target="_parent">TemplateMo</a>.</p>
+                                <form id="search" action="#" method="GET">
+                                    <fieldset>
+                                        <input type="address" name="address" class="email"
+                                            placeholder="Your website URL..." autocomplete="on" required>
+                                    </fieldset>
+                                    <fieldset>
+                                        <button type="submit" class="main-button">Analyze Site</button>
+                                    </fieldset>
+                                </form>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="right-image wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
+                                <img src="assets/images/banner-right-image.png" alt="team meeting">
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
-          </div>
-          <button type="submit" class="btn btn__secondary btn__block">Register</button>
-        </form>
-        <div class="d-flex justify-content-center align-items-center mt-20">
-          <span class="color-white fz-14 font-weight-bold">Have An Account?</span>
-          <button id="go-login" class="go-login fz-14 font-weight-bold">
-            <span>Login Here</span><i class="icon-arrow-right"></i>
-          </button>
         </div>
-      </div>
-    </div><!-- /.login-popup -->
-  </div><!-- /.wrapper -->
+    </div>
 
-  <script src="assets/js/jquery-3.5.1.min.js"></script>
-  <script src="assets/js/plugins.js"></script>
-  <script src="assets/js/main.js"></script>
+    <?php require "footer.php"?>
+    <?php require "script.php"?>
+
 </body>
 
 </html>
