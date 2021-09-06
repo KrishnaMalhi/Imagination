@@ -2761,6 +2761,7 @@ input[type=radio] {
 
 .header-transparent .logo-dark {
   display: none;
+  
 }
 
 .header-transparent .is-sticky .nav__item .nav__item-link:before {
@@ -4303,7 +4304,7 @@ input[type=radio] {
 }
 
 .feature-item .feature-item__desc {
-  font-size: 14px;
+  font-size: 10px;
   line-height: 1.7;
 }
 
@@ -8300,4 +8301,9 @@ form#contact button:hover {
   color: #fff;
   font-size: 15px;
   font-weight: 400;
+}
+.feature-item__title {
+  font-size: 19px;
+  line-height: 1.4;
+  margin-bottom: 25px;
 }

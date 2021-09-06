@@ -180,8 +180,11 @@
                     <a href="#">
                         <div class="item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.3s">
                             <div class="hidden-content">
-                                <h4>SEO Analysis</h4>
-                                <p>Lorem ipsum dolor sit ameti ctetur aoi adipiscing eto.</p>
+                            <div  >
+                                 
+                            <i class="icon-server"></i>
+                                </div><!-- /.service-item__icon -->
+                                <h4 >Software & Web Development</h4>
                             </div>
                             <div class="showed-content">
                                 <img src="assets/images/portfolio-image.png" alt="">
@@ -193,8 +196,11 @@
                     <a href="#">
                         <div class="item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.4s">
                             <div class="hidden-content">
-                                <h4>Website Reporting</h4>
-                                <p>Lorem ipsum dolor sit ameti ctetur aoi adipiscing eto.</p>
+                            <div class="service-item__icon">
+                                    <i class="icon-statistic"></i>
+                                </div><!-- /.service-item__icon -->
+                                <h4 class="service-item__title">Digital Marketing Services</h4>
+
                             </div>
                             <div class="showed-content">
                                 <img src="assets/images/portfolio-image.png" alt="">
@@ -206,8 +212,10 @@
                     <a href="#">
                         <div class="item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.5s">
                             <div class="hidden-content">
-                                <h4>Performance Tests</h4>
-                                <p>Lorem ipsum dolor sit ameti ctetur aoi adipiscing eto.</p>
+                            <div class="service-item__icon">
+                                    <i class="icon-presentation"></i>
+                                </div><!-- /.service-item__icon -->
+                                <h4 class="service-item__title">Graphics Designing</h4>
                             </div>
                             <div class="showed-content">
                                 <img src="assets/images/portfolio-image.png" alt="">
@@ -219,8 +227,10 @@
                     <a href="#">
                         <div class="item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.6s">
                             <div class="hidden-content">
-                                <h4>Data Analysis</h4>
-                                <p>Lorem ipsum dolor sit ameti ctetur aoi adipiscing eto.</p>
+                            <div class="service-item__icon">
+                                    <i class="icon-technician"></i>
+                                </div><!-- /.service-item__icon -->
+                                <h4 class="service-item__title">Network & Hosting Services</h4>
                             </div>
                             <div class="showed-content">
                                 <img src="assets/images/portfolio-image.png" alt="">

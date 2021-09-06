@@ -1,12 +1,17 @@
-<header class="header-area header-sticky wow slideInDown" data-wow-duration="0.75s" data-wow-delay="0s">
-    <div class="container">
+
+
+<div class="container">
+           <!-- ***** Logo Start ***** -->
+           
         <div class="row">
             <div class="col-12">
                 <nav class="main-nav">
-                    <!-- ***** Logo Start ***** -->
-                    <a href="index.html" class="logo">
-                        <h4>Spac<span>Dyna</span></h4>
-                    </a>
+                
+        <a class="navbar-brand" href="index.php">
+      
+            <img src="assets/images/logo/l1.png" class="logo-dark" alt="logo" style=margin-top:20px>
+        </a>
+      
                     <ul class="nav">
                         <li class="nav__item">
                             <a href="index.php" class="nav__item-link ">HOME</a>
