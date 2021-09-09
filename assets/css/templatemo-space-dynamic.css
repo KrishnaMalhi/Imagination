@@ -1155,6 +1155,8 @@ Portfolio
   border-radius: 20px;
   box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
   transition: all 0.5s;
+  margin-bottom: 120px;
+
 }
 
 .our-portfolio .showed-content img {

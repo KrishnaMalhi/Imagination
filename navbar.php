@@ -22,24 +22,25 @@
 
                         </li><!-- /.nav-item -->
                         <li class="nav__item  has-dropdown">
-                            <a href="services.php" class="dropdown-toggle nav__item-link">SERVICES</a>
-                            <ul class="dropdown-menu">
-                                <li class="nav__item  has-dropdown">
-                                    <a href="softdevelopment.php" class="dropdown-toggle nav__item-link">Software
-                                        Development</a>
-                                    <ul class="dropdown-menu dropdown-menu1">
-                                        <li class="nav__item">
-                                            <a href="softdevelopment.php" class="nav__item-link">Desktop
-                                                Applications</a>
-                                        </li><!-- /.nav-item -->
-                                        <li class="nav__item">
-                                            <a href="softdevelopment.php" class="nav__item-link">Web Applications</a>
-                                        </li><!-- /.nav-item -->
-                                        <li class="nav__item">
-                                            <a href="softdevelopment.php" class="nav__item-link">Mobile Applications</a>
-                                        </li><!-- /.nav-item -->
-                                    </ul><!-- /.dropdown-menu -->
+                    <a href="services.php" class="dropdown-toggle nav__item-link" >SERVICES</a>
+                    <ul class="dropdown-menu">
+                        <li class="nav__item  has-dropdown">
+                            <a href="softdevelopment.php"  class="dropdown-toggle nav__item-link">Software Development</a>
+                            <ul class="dropdown-menu dropdown-menu1">
+                                <li class="nav__item">
+                                    <a href="softdevelopment.php" class="nav__item-link">Desktop Applications</a>
                                 </li><!-- /.nav-item -->
+                                <li class="nav__item">
+                                    <a href="softdevelopment.php" class="nav__item-link">Web Applications</a>
+                                </li><!-- /.nav-item -->
+                                <li class="nav__item">
+                                    <a href="softdevelopment.php" class="nav__item-link">Mobile Applications</a>
+                                </li><!-- /.nav-item -->
+                                <li class="nav__item">
+                                    <a href="softdevelopment.php" class="nav__item-link">Artificial Intelligence</a>
+                                </li><!-- /.nav-item -->
+                            </ul><!-- /.dropdown-menu -->
+                        </li><!-- /.nav-item -->
                                 <li class="nav__item  has-dropdown">
                                     <a href="web.php" class="dropdown-toggle nav__item-link">Web designing</a>
                                     <ul class="dropdown-menu dropdown-menu1">
